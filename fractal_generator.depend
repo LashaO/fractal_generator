@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1575735015 source:/home/l3404/Desktop/fractal_generator/main.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<complex.h>
+
